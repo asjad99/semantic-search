@@ -1,19 +1,39 @@
-# Computatinal Photography/Vision/
-
-Architecture 
-1. https://news.ycombinator.com/item?id=30986893
-2. Computer Systems 
-
-You should be comfortable with arrays, pointers, references, classes, methods, dynamic memory allocation, recursion, linked lists, binary search trees, hashing, iterators, and function pointers.
-
----
 
 
- - Computational Photography
- - https://rolisz.ro/projects/
- - 
-- https://jeremykun.com/2018/12/01/a-programmers-introduction-to-mathematics/
-- https://maxmasnick.com/kb/
-- https://chrisalbon.com/ Photography: 
-https://paulstamatiou.com/photos/new-zealand/mount-cook-to-christchurch/ 
-gear: https://paulstamatiou.com/stuff-i-use/
+### Semantic Search Engine for Knowledge Retreival 
+
+Semantic technologies are meaning centred. They encompass the following:
+
+· encode/decode of semantic representation
+
+· knowledge graph embedding relationships
+
+· auto-recognition of topics and concepts
+
+· information and meaning extraction
+
+· semantic data integration, and
+
+· taxonomies/classification
+
+Therefore given any question, they directly search topics, concepts and association that span across various resources.
+
+
+### Datasets 
+
+- Wikipedia:  evaluate the performance of our system we replicated this experiment done by gensim guys : https://radimrehurek.com/gensim/wiki.html, 
+- PubMed 
+
+
+### Architecture 
+
+
+
+
+
+
+### Inspiring Similar Projects: 
+
+1. https://github.blog/2023-02-06-the-technology-behind-githubs-new-code-search/ 
+2. https://towardsdatascience.com/semantic-search-engine-ca03b0a835d5
+3. 
