@@ -4,6 +4,8 @@
 
 Semantic technologies are meaning centred. They encompass the following:
 
+https://github.com/marescas/search_fundamentals_course
+
 · encode/decode of semantic representation
 
 · knowledge graph embedding relationships
