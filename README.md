@@ -39,3 +39,4 @@ Therefore given any question, they directly search topics, concepts and associat
 1. https://github.blog/2023-02-06-the-technology-behind-githubs-new-code-search/ 
 2. https://towardsdatascience.com/semantic-search-engine-ca03b0a835d5
 3. https://github.com/aws-samples/semantic-search-aws-docs
+4. https://github.com/marescas/search_fundamentals_course 
